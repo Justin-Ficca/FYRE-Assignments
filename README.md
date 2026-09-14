@@ -3,3 +3,4 @@ Repo for my assignments from the "Sensing the World" module of the ENG095 at Leh
 
 ## Programming Activities
 September 9: Basic print out and blinking 
+September 14: Create a security system using a bread board, 2 LEDs, 1 button, 1 photoresistor light sensor, 1 Arduino, 2 330-ohm resistors 
